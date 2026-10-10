@@ -1,0 +1,344 @@
+[
+  {
+    "id": "1",
+    "title": "20th Century Boys",
+    "edition": "Ultimate Deluxe Edition",
+    "volumes": 11
+  },
+  {
+    "id": "2",
+    "title": "21st Century Boys",
+    "edition": "Ultimate Deluxe Edition",
+    "volumes": 1
+  },
+  {
+    "id": "3",
+    "title": "Astro Royale",
+    "edition": "Standard Edition",
+    "volumes": 6
+  },
+  {
+    "id": "4",
+    "title": "Atelier of Witch Hat",
+    "edition": "Grimoire Edition",
+    "volumes": 4
+  },
+  {
+    "id": "5",
+    "title": "Berserk",
+    "edition": "Collection Edition Serie Nera",
+    "volumes": 42
+  },
+  {
+    "id": "6",
+    "title": "Blue Period",
+    "edition": "Standard Edition",
+    "volumes": 18
+  },
+  {
+    "id": "7",
+    "title": "Bug Ego",
+    "edition": "Standard Edition",
+    "volumes": 3
+  },
+  {
+    "id": "8",
+    "title": "Buonanotte, Punpun",
+    "edition": "New Edition",
+    "volumes": 7
+  },
+  {
+    "id": "9",
+    "title": "Centuria",
+    "edition": "Standard Edition",
+    "volumes": 8
+  },
+  {
+    "id": "10",
+    "title": "Chainsaw Man",
+    "edition": "Standard Edition",
+    "volumes": 23
+  },
+  {
+    "id": "11",
+    "title": "Cosmos",
+    "edition": "Standard Edition",
+    "volumes": 8
+  },
+  {
+    "id": "12",
+    "title": "DanDaDan",
+    "edition": "Standard Edition",
+    "volumes": 23
+  },
+  {
+    "id": "13",
+    "title": "Death Note",
+    "edition": "Standard Edition",
+    "volumes": 13
+  },
+  {
+    "id": "14",
+    "title": "Demon Slayer - Kimetsu no Yaiba",
+    "edition": "New Edition",
+    "volumes": 5
+  },
+  {
+    "id": "15",
+    "title": "Demon Slayer - Kimetsu no Yaiba",
+    "edition": "Standard Edition",
+    "volumes": 23
+  },
+  {
+    "id": "16",
+    "title": "Denjin N",
+    "edition": "Box Edition",
+    "volumes": 2
+  },
+  {
+    "id": "17",
+    "title": "Denjin N",
+    "edition": "Standard Edition",
+    "volumes": 4
+  },
+  {
+    "id": "18",
+    "title": "Dragon Ball",
+    "edition": "Evergreen Edition",
+    "volumes": 42
+  },
+  {
+    "id": "19",
+    "title": "Fatti forza, Nakamura!",
+    "edition": "Standard Edition",
+    "volumes": 1
+  },
+  {
+    "id": "20",
+    "title": "Fire Punch",
+    "edition": "Standard Edition",
+    "volumes": 8
+  },
+  {
+    "id": "21",
+    "title": "Frieren: Oltre la fine del viaggio",
+    "edition": "Standard Edition",
+    "volumes": 15
+  },
+  {
+    "id": "22",
+    "title": "Gachiakuta",
+    "edition": "Standard Edition",
+    "volumes": 18
+  },
+  {
+    "id": "23",
+    "title": "Gokurakugai",
+    "edition": "Standard Edition",
+    "volumes": 6
+  },
+  {
+    "id": "24",
+    "title": "Goodbye, Eri",
+    "edition": "Standard Edition",
+    "volumes": 1
+  },
+  {
+    "id": "25",
+    "title": "Hell's Paradise - Jigokuraku",
+    "edition": "Standard Edition",
+    "volumes": 13
+  },
+  {
+    "id": "26",
+    "title": "Homunculus",
+    "edition": "Standard Edition",
+    "volumes": 15
+  },
+  {
+    "id": "27",
+    "title": "I fiori del male (Shuzo Oshimi)",
+    "edition": "Standard Edition",
+    "volumes": 11
+  },
+  {
+    "id": "28",
+    "title": "Ichi the Witch",
+    "edition": "Standard Edition",
+    "volumes": 5
+  },
+  {
+    "id": "29",
+    "title": "Jujutsu Kaisen - Sorcery Fight",
+    "edition": "Standard Edition",
+    "volumes": 30
+  },
+  {
+    "id": "30",
+    "title": "Kagurabachi",
+    "edition": "Special Edition",
+    "volumes": 6
+  },
+  {
+    "id": "31",
+    "title": "Kagurabachi",
+    "edition": "Standard Edition",
+    "volumes": 10
+  },
+  {
+    "id": "32",
+    "title": "Kaijin Fugeki - Kindled Spirits",
+    "edition": "Standard Edition",
+    "volumes": 6
+  },
+  {
+    "id": "33",
+    "title": "Kaiju No. 8",
+    "edition": "Standard Edition",
+    "volumes": 16
+  },
+  {
+    "id": "34",
+    "title": "L'attacco dei giganti",
+    "edition": "Standard Edition",
+    "volumes": 34
+  },
+  {
+    "id": "35",
+    "title": "L'estate in cui Hikaru è morto",
+    "edition": "Standard Edition",
+    "volumes": 9
+  },
+  {
+    "id": "36",
+    "title": "Monster",
+    "edition": "Deluxe Edition",
+    "volumes": 9
+  },
+  {
+    "id": "37",
+    "title": "My Hero Academia",
+    "edition": "Edizione Gazzetta dello Sport",
+    "volumes": 42
+  },
+  {
+    "id": "38",
+    "title": "Naruto",
+    "edition": "Color New Edition",
+    "volumes": 23
+  },
+  {
+    "id": "39",
+    "title": "Pluto",
+    "edition": "Standard Edition",
+    "volumes": 8
+  },
+  {
+    "id": "40",
+    "title": "Randagi",
+    "edition": "Standard Edition",
+    "volumes": 4
+  },
+  {
+    "id": "41",
+    "title": "Sakamoto Days",
+    "edition": "Standard Edition",
+    "volumes": 26
+  },
+  {
+    "id": "42",
+    "title": "Slam Dunk",
+    "edition": "Standard Edition (Planet Manga 2019)",
+    "volumes": 20
+  },
+  {
+    "id": "43",
+    "title": "Spirit Circle",
+    "edition": "Standard Edition",
+    "volumes": 6
+  },
+  {
+    "id": "44",
+    "title": "Takamine, rimettiti le mutandine!",
+    "edition": "Special Edition",
+    "volumes": 8
+  },
+  {
+    "id": "45",
+    "title": "Takamine, rimettiti le mutandine!",
+    "edition": "Standard Edition",
+    "volumes": 7
+  },
+  {
+    "id": "46",
+    "title": "The Climber",
+    "edition": "Standard Edition",
+    "volumes": 17
+  },
+  {
+    "id": "47",
+    "title": "The Fragrant Flower Blooms with Dignity",
+    "edition": "Standard Edition",
+    "volumes": 15
+  },
+  {
+    "id": "48",
+    "title": "Tokyo Ghoul",
+    "edition": "Standard Edition",
+    "volumes": 14
+  },
+  {
+    "id": "49",
+    "title": "Tokyo Ghoul:re",
+    "edition": "Standard Edition",
+    "volumes": 16
+  },
+  {
+    "id": "50",
+    "title": "Tokyo Revengers",
+    "edition": "Edizione Gazzetta dello Sport",
+    "volumes": 31
+  },
+  {
+    "id": "51",
+    "title": "Tokyo Revengers - Una lettera da Baji",
+    "edition": "Edizione Gazzetta dello Sport",
+    "volumes": 6
+  },
+  {
+    "id": "52",
+    "title": "Tokyo Revengers Character Book",
+    "edition": "Edizione Gazzetta dello Sport",
+    "volumes": 3
+  },
+  {
+    "id": "53",
+    "title": "Vagabond",
+    "edition": "Deluxe Edition",
+    "volumes": 37
+  },
+  {
+    "id": "54",
+    "title": "Vinland Saga",
+    "edition": "Standard Edition",
+    "volumes": 29
+  },
+  {
+    "id": "55",
+    "title": "Wind Breaker",
+    "edition": "Standard Edition",
+    "volumes": 21
+  },
+  {
+    "id": "56",
+    "title": "World's End Harem",
+    "edition": "Standard Edition",
+    "volumes": 18
+  },
+  {
+    "id": "57",
+    "title": "Your Name.",
+    "edition": "Box Edition",
+    "volumes": 1
+  }
+]
